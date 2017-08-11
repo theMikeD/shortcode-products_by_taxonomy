@@ -8,6 +8,6 @@ It has been modified in two ways:
 
 
 ## To use
-Put the shortcode PHP file somewhere and reference it, or copy and paste it into your function.php file. Then call the shortcode as described on this page, with the additional arguement `taxonomy` to specify the taxonomy to use.
+Put the shortcode PHP file somewhere and reference it, or copy and paste it into your function.php file. Then call the shortcode as described on [this page](https://docs.woocommerce.com/document/woocommerce-shortcodes/#section-12), with the additional arguement `taxonomy` to specify the taxonomy to use.
 
 
